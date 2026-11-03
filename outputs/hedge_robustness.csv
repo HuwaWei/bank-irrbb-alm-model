@@ -1,0 +1,5 @@
+,Unhedged worst % T1,Unhedged scenario,Hedged worst % T1,Hedged scenario
+"Base (core +0pp, CASA life 4.5y)",14.395333090259836,parallel_down,5.610037688356625,parallel_down
+Less sticky: CASA life 3y,7.889825667201456,parallel_down,6.579046110795508,steepener
+"Less sticky: core -20pp, life 3y",4.823257884290449,steepener,10.151693041841453,parallel_up
+Stickier: CASA life 5y (cap),16.356979343972558,parallel_down,7.571683942069268,parallel_down
